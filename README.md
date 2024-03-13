@@ -1,5 +1,5 @@
 # NODA-Neural-Operator-with-Data-Assimilation
-Code repository for Learning semilinear neural operators: A unified recursive framework for prediction and data assimilation[1]
+Code repository for Learning semilinear neural operators: A unified recursive framework for prediction and data assimilation (ICLR 2024)
 
 
 Code will be released soon.
